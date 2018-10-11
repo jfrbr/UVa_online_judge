@@ -1,4 +1,4 @@
-codigos_uva
+UVa Online Judge
 ===========
 
-Códigos do UVa online judge
+My codes for UVA Online Judge.
